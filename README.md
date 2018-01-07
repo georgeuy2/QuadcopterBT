@@ -1,10 +1,15 @@
 # QuadcopterBT
-DroneBT Project
-Name: George Uy de Ong II
-CS193
-University of California, Riverside
-Last update: Dec 6, 2017
+Goal:
+My goal was to build a quadcopter that could fly and be controlled with an app.
 
-The main Arduino code for my project is located at the folder DroneBT_v1.0.ino. The project report is the file called "Drone CS193 Report." 
-The schematic of the drone is called droneBT_schematic. The folder called "Drone_app" contains files of my app. The apk file is also there.
-The other two folder contains pictures of my first and second versions of my drones.
+Parts: 
+Quadcopter frame
+Lipo Battery 3C 2200mAh
+4 x 1100KV brushless motors
+4 x ESC 30A
+Bluetooth receiver HC-05
+MPU-6050 gyroscope and accelerometer
+Arduino Uno
+Header pins
+Jumper wires
+Android phone
